@@ -8,4 +8,9 @@ scikit-learn==1.7.0
 scipy==1.15.3
 shap==0.47.2
 statsmodels==0.14.4
-
+streamlit
+xgboost
+seaborn
+matplotlib
+plotly
+shap
