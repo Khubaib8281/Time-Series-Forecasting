@@ -51,7 +51,27 @@ The goal is to accurately predict future grocery sales by leveraging various sta
 
 ## 🚀 How to Run
 
-1. Clone the repository  
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Khubaib8281/favorita-sales-forecasting.git
+   cd favorita-sales-forecasting
 2. Install requirements:  
    ```bash
    pip install -r requirements.txt
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Fork the repository
+Create a feature branch (```git checkout -b feature-name```)
+Commit changes (```git commit -m 'Add feature'```)
+Push to the branch and open a PR
+
+## 📜 License
+MIT License © 2025 Muhammad Khubaib Ahmad
+
+## 🌟 Support
+If you find this project useful, please ⭐ the repository and share it!
+For feedback or collaboration: muhammadkhubaibahmad854@gmail.com
+
+> "Data is the new oil, but only if refined." — Favorita Grocery Sales Forecasting
